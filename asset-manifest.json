@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website-premankur/static/css/main.d61a13c5.css",
-    "main.js": "/website-premankur/static/js/main.10ec04c6.js",
+    "main.css": "/website-premankur/static/css/main.65a2d8fd.css",
+    "main.js": "/website-premankur/static/js/main.28a2c553.js",
     "static/js/453.35d4988f.chunk.js": "/website-premankur/static/js/453.35d4988f.chunk.js",
     "static/media/8.png": "/website-premankur/static/media/8.fe7c4561d52f2c5e2a86.png",
     "static/media/10.png": "/website-premankur/static/media/10.304ec9ae0e25218d3221.png",
@@ -34,12 +34,12 @@
     "static/media/PREMANKUR SAMAJIK SANSTHA -  SOCIETY REGI_231016_185521.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  SOCIETY REGI_231016_185521.77f12a7f2c810a5d5d0a.pdf",
     "static/media/PREMANKUR SAMAJIK SANSTHA -  PUBLIC TRUST ACT REGI_231016_185505.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  PUBLIC TRUST ACT REGI_231016_185505.516ca5d6c6bfeb55b62b.pdf",
     "index.html": "/website-premankur/index.html",
-    "main.d61a13c5.css.map": "/website-premankur/static/css/main.d61a13c5.css.map",
-    "main.10ec04c6.js.map": "/website-premankur/static/js/main.10ec04c6.js.map",
+    "main.65a2d8fd.css.map": "/website-premankur/static/css/main.65a2d8fd.css.map",
+    "main.28a2c553.js.map": "/website-premankur/static/js/main.28a2c553.js.map",
     "453.35d4988f.chunk.js.map": "/website-premankur/static/js/453.35d4988f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d61a13c5.css",
-    "static/js/main.10ec04c6.js"
+    "static/css/main.65a2d8fd.css",
+    "static/js/main.28a2c553.js"
   ]
 }
