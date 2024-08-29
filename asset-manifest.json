@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website-premankur/static/css/main.b0871b8e.css",
-    "main.js": "/website-premankur/static/js/main.f70858a5.js",
+    "main.css": "/website-premankur/static/css/main.d61a13c5.css",
+    "main.js": "/website-premankur/static/js/main.10ec04c6.js",
     "static/js/453.35d4988f.chunk.js": "/website-premankur/static/js/453.35d4988f.chunk.js",
     "static/media/8.png": "/website-premankur/static/media/8.fe7c4561d52f2c5e2a86.png",
     "static/media/10.png": "/website-premankur/static/media/10.304ec9ae0e25218d3221.png",
@@ -20,19 +20,26 @@
     "static/media/3.png": "/website-premankur/static/media/3.97ad3b6b67396e1ddd13.png",
     "static/media/5.png": "/website-premankur/static/media/5.e7400849a3297a8cf41b.png",
     "static/media/7.png": "/website-premankur/static/media/7.468f4dbecce092ab68d8.png",
+    "static/media/Premankur 12A80G Cert.pdf": "/website-premankur/static/media/Premankur 12A80G Cert.3d1e50b32e1fd3c3505a.pdf",
     "static/media/2.png": "/website-premankur/static/media/2.627286f38be5a5ebd881.png",
     "static/media/4.png": "/website-premankur/static/media/4.1074d236ab910ee829fc.png",
     "static/media/20.png": "/website-premankur/static/media/20.3af44b26bd94396ce4c5.png",
     "static/media/1.png": "/website-premankur/static/media/1.5e542a156177864bb376.png",
+    "static/media/PREMANKUR SAMAJIK SANSTHA -  MEMORENDUN_231016_185432.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  MEMORENDUN_231016_185432.82618f43fcc8d1bdfd12.pdf",
     "static/media/logo.png": "/website-premankur/static/media/logo.c7d2b97f5a8261aa49cf.png",
+    "static/media/Premankur IT Ack 1112_231016_185954.pdf": "/website-premankur/static/media/Premankur IT Ack 1112_231016_185954.db99d0f218ca9b0b6fb7.pdf",
     "static/media/logo-large.png": "/website-premankur/static/media/logo-large.f337dcbe97d321c441e7.png",
+    "static/media/Approval Letter_231117_180552.pdf": "/website-premankur/static/media/Approval Letter_231117_180552.dfa78e4eadfe784291a4.pdf",
+    "static/media/PREMANKUR SAMAJIK SANSTHA -  80G _231016_185405.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  80G _231016_185405.218bef8faa94574223d5.pdf",
+    "static/media/PREMANKUR SAMAJIK SANSTHA -  SOCIETY REGI_231016_185521.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  SOCIETY REGI_231016_185521.77f12a7f2c810a5d5d0a.pdf",
+    "static/media/PREMANKUR SAMAJIK SANSTHA -  PUBLIC TRUST ACT REGI_231016_185505.pdf": "/website-premankur/static/media/PREMANKUR SAMAJIK SANSTHA -  PUBLIC TRUST ACT REGI_231016_185505.516ca5d6c6bfeb55b62b.pdf",
     "index.html": "/website-premankur/index.html",
-    "main.b0871b8e.css.map": "/website-premankur/static/css/main.b0871b8e.css.map",
-    "main.f70858a5.js.map": "/website-premankur/static/js/main.f70858a5.js.map",
+    "main.d61a13c5.css.map": "/website-premankur/static/css/main.d61a13c5.css.map",
+    "main.10ec04c6.js.map": "/website-premankur/static/js/main.10ec04c6.js.map",
     "453.35d4988f.chunk.js.map": "/website-premankur/static/js/453.35d4988f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0871b8e.css",
-    "static/js/main.f70858a5.js"
+    "static/css/main.d61a13c5.css",
+    "static/js/main.10ec04c6.js"
   ]
 }
