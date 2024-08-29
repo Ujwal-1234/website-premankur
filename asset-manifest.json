@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/website-premankur/static/css/main.b0871b8e.css",
+    "main.js": "/website-premankur/static/js/main.f70858a5.js",
+    "static/js/453.35d4988f.chunk.js": "/website-premankur/static/js/453.35d4988f.chunk.js",
+    "static/media/8.png": "/website-premankur/static/media/8.fe7c4561d52f2c5e2a86.png",
+    "static/media/10.png": "/website-premankur/static/media/10.304ec9ae0e25218d3221.png",
+    "static/media/17.png": "/website-premankur/static/media/17.325d7fadb3476709a3ab.png",
+    "static/media/21.png": "/website-premankur/static/media/21.1b2197a1f3c01987ef24.png",
+    "static/media/14.png": "/website-premankur/static/media/14.3156c3f95f19cf6e7670.png",
+    "static/media/15.png": "/website-premankur/static/media/15.445445fe39e1da81ad22.png",
+    "static/media/11.png": "/website-premankur/static/media/11.965cf079735b23e1f39f.png",
+    "static/media/16.png": "/website-premankur/static/media/16.9c96bea57f82c983d623.png",
+    "static/media/9.png": "/website-premankur/static/media/9.248585f1034db7155260.png",
+    "static/media/6.png": "/website-premankur/static/media/6.3ab2da040b00a1676018.png",
+    "static/media/12.png": "/website-premankur/static/media/12.aa3115c36466a7374eae.png",
+    "static/media/19.png": "/website-premankur/static/media/19.d7d6fad6e0ffc3e9816a.png",
+    "static/media/18.png": "/website-premankur/static/media/18.3b0e4aea3d5b62739340.png",
+    "static/media/13.png": "/website-premankur/static/media/13.77a4d8cb20d102b67d7e.png",
+    "static/media/3.png": "/website-premankur/static/media/3.97ad3b6b67396e1ddd13.png",
+    "static/media/5.png": "/website-premankur/static/media/5.e7400849a3297a8cf41b.png",
+    "static/media/7.png": "/website-premankur/static/media/7.468f4dbecce092ab68d8.png",
+    "static/media/2.png": "/website-premankur/static/media/2.627286f38be5a5ebd881.png",
+    "static/media/4.png": "/website-premankur/static/media/4.1074d236ab910ee829fc.png",
+    "static/media/20.png": "/website-premankur/static/media/20.3af44b26bd94396ce4c5.png",
+    "static/media/1.png": "/website-premankur/static/media/1.5e542a156177864bb376.png",
+    "static/media/logo.png": "/website-premankur/static/media/logo.c7d2b97f5a8261aa49cf.png",
+    "static/media/logo-large.png": "/website-premankur/static/media/logo-large.f337dcbe97d321c441e7.png",
+    "index.html": "/website-premankur/index.html",
+    "main.b0871b8e.css.map": "/website-premankur/static/css/main.b0871b8e.css.map",
+    "main.f70858a5.js.map": "/website-premankur/static/js/main.f70858a5.js.map",
+    "453.35d4988f.chunk.js.map": "/website-premankur/static/js/453.35d4988f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0871b8e.css",
+    "static/js/main.f70858a5.js"
+  ]
+}
